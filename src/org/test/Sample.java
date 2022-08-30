@@ -3,6 +3,10 @@ package org.test;
 public class Sample {
 	
 
+	public void m3() {
+		System.out.println("SK added code......");
+	}
+
 	public void m2() {
 		System.out.println("RK Code has added......");
 	}
